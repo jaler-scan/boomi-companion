@@ -15,12 +15,20 @@
         "url": "https://github.com/OfficialBoomi/bc-integration.git"
       }
     },
-      {
+    {
       "name": "bc-marketplace",
-      "description": "Boomi Companion: Interact with the Boomi Marketplace",
+      "description": "Interact with the marketplace.boomi.com",
       "source": {
         "source": "url",
         "url": "https://github.com/OfficialBoomi/bc-marketplace.git"
+      }
+    },
+   {
+      "name": "bc-datahub",
+      "description": "Skills to operate Boomi Data Hub",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/OfficialBoomi/bc-datahub.git"
       }
     }
   ]
