@@ -12,6 +12,7 @@ This project is licensed under the BSD-2-Clause License. If you fork or modify t
 |--------|-------------|
 | [bc-integration](https://github.com/OfficialBoomi/bc-integration) | Skills, commands, and agents for building Boomi integrations |
 | [bc-marketplace](https://github.com/OfficialBoomi/bc-marketplace) | Skill for searching and installing Boomi Marketplace recipes |
+| [bc-datahub](https://github.com/OfficialBoomi/bc-datahub) | Skills to operate Boomi Data Hub |
 
 ## Installation
 
@@ -34,6 +35,7 @@ The following underlying skills are also available as standalone packages for us
 |--------|-------------|
 | [boomi-integration](https://github.com/OfficialBoomi/boomi-integration) | Skill for building Boomi integrations |
 | [boomi-marketplace](https://github.com/OfficialBoomi/boomi-marketplace) | Skill for searching and installing Boomi Marketplace recipes |
+| [boomi-datahub](https://github.com/OfficialBoomi/boomi-datahub) | Skill for operating Boomi Data Hub |
 
 ## Documentation
 
