@@ -30,6 +30,22 @@
         "source": "url",
         "url": "https://github.com/OfficialBoomi/bc-datahub.git"
       }
+    },
+   {
+      "name": "bc-bdi",
+      "description": "Skills to operate Boomi Data Integration (formerly Rivery)",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/OfficialBoomi/bc-bdi.git"
+      }
+    },
+   {
+      "name": "bc-agentstudio",
+      "description": "Skills to operate Boomi Agenstudio",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/OfficialBoomi/bc-agentstudio.git"
+      }
     }
   ]
 }
