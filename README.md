@@ -13,6 +13,8 @@ This project is licensed under the BSD-2-Clause License. If you fork or modify t
 | [bc-integration](https://github.com/OfficialBoomi/bc-integration) | Skills, commands, and agents for building Boomi integrations |
 | [bc-marketplace](https://github.com/OfficialBoomi/bc-marketplace) | Skill for searching and installing Boomi Marketplace recipes |
 | [bc-datahub](https://github.com/OfficialBoomi/bc-datahub) | Skills to operate Boomi Data Hub |
+| [bc-bdi](https://github.com/OfficialBoomi/bc-bdi) | Skills to operate Boomi Data Integration (formerly Rivery) |
+| [bc-agentstudio](https://github.com/OfficialBoomi/bc-agentstudio) | Skills to operate Boomi Agentstudio |
 
 ## Installation
 
@@ -36,6 +38,8 @@ The following underlying skills are also available as standalone packages for us
 | [boomi-integration](https://github.com/OfficialBoomi/boomi-integration) | Skill for building Boomi integrations |
 | [boomi-marketplace](https://github.com/OfficialBoomi/boomi-marketplace) | Skill for searching and installing Boomi Marketplace recipes |
 | [boomi-datahub](https://github.com/OfficialBoomi/boomi-datahub) | Skill for operating Boomi Data Hub |
+| [boomi-bdi](https://github.com/OfficialBoomi/boomi-bdi) | Skill for operating Boomi Data Integration (formerly Rivery)|
+| [boomi-agentstudio](https://github.com/OfficialBoomi/boomi-agentstudio) | Skill for operating Boomi Agentstudio |
 
 ## Documentation
 
