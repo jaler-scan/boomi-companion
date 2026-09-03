@@ -1,0 +1,4 @@
+{
+  "name": "Boomi Companion",
+  "install": "./.cursor/install.sh"
+}
