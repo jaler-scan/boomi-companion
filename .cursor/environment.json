@@ -1,4 +1,5 @@
 {
   "name": "Boomi Companion",
-  "install": "bash ./.cursor/install.sh"
+  "install": "bash ./.cursor/install.sh",
+  "start": "bash ./.cursor/generate-env.sh || true"
 }

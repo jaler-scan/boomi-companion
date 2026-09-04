@@ -17,3 +17,7 @@ fi
 
 export PATH="$PREFIX/bin:$PATH"
 claude --version
+
+# When Boomi credentials are injected as secrets (just-in-time / local runs),
+# materialize the project .env for the boomi-integration skill. No-op otherwise.
+bash "$(dirname "$0")/generate-env.sh" || true
