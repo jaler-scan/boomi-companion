@@ -2,3 +2,8 @@
 /hook-logs
 
 CLAUDE.md
+
+# Boomi integration skill project state (never commit credentials or local working files)
+.env
+active-development/
+.activity-log/
